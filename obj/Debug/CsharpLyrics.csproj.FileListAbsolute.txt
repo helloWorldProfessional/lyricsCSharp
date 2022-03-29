@@ -1,0 +1,13 @@
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\bin\Debug\CsharpLyrics.exe.config
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\bin\Debug\CsharpLyrics.exe
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\bin\Debug\CsharpLyrics.pdb
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.csprojAssemblyReference.cache
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.Properties.Resources.resources
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.csproj.GenerateResource.cache
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.csproj.CoreCompileInputs.cache
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.exe
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.pdb
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.csproj.CopyComplete
+C:\Users\sc21l\source\repos\CsharpLyrics\CsharpLyrics\obj\Debug\CsharpLyrics.Lyrics.resources
